@@ -6,7 +6,7 @@ This is a web based application developed for Earth and health related based web
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://deepthi306.github.io/projectFRT/
+**Project Link** - https://brave-rock-08176de00.2.azurestaticapps.net/
 **project demo video link** - 
 
 ## Azure technologies used for Project
