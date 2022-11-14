@@ -1,5 +1,5 @@
 # projectFRT
-# ✨  Project name ✨
+# ✨  Organic Store  ✨
 
 This is a web based application developed for Earth and health related based website in india
 
