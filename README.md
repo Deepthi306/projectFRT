@@ -37,10 +37,8 @@ https://user-images.githubusercontent.com/112242134/201740578-25c0dbf0-c5c9-4cef
 
 
 <img width="943" alt="Screenshot 2022-11-14 192759" src="https://user-images.githubusercontent.com/112242134/201678353-e9b02b92-5c4f-4d00-bed1-037b61184ffd.png">
-
+<img width="944" alt="Screenshot 2022-11-15 001835" src="https://user-images.githubusercontent.com/112242134/201741508-2e5fa497-fa1a-4647-98c8-8acdfbe646dc.png">
 ### Gallery -
-
-
 <img width="937" alt="Screenshot 2022-11-14 192859" src="https://user-images.githubusercontent.com/112242134/201678547-ad8a7a28-af7d-4673-88d1-e8b924d1d21d.png">
 
 ### Blog -
