@@ -1,4 +1,3 @@
-# projectFRT
 # ✨  Organic Store  ✨
 
 This is a web based application developed for Earth and health related based website in india
@@ -7,7 +6,11 @@ This is a web based application developed for Earth and health related based web
 
 
 **Project Link** - https://brave-rock-08176de00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link**
+
+https://user-images.githubusercontent.com/112242134/201740578-25c0dbf0-c5c9-4cef-bc96-5abee23d1f59.mp4
+
+ - 
 
 ## Azure technologies used for Project
 
